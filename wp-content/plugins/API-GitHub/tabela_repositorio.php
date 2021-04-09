@@ -46,7 +46,7 @@
 				$tabela .= '
 					<tr>
 						<td>'.$cont.'</td>
-						<td>[<a href="https://github.com/marcocianci/'.$e->name.'" target="_blank">'.$e->name.'</a>]</td>
+						<td>[<a href="https://github.com/'.$login.'/'.$e->name.'" target="_blank">'.$e->name.'</a>]</td>
 					</tr>
 				';
 			$cont = $cont + 1;
