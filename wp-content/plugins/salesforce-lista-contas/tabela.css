@@ -1,0 +1,50 @@
+/* VITOR AMARAL - 05/02/2021 */
+.class_td_c {
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 15px!important;
+}
+tr {
+   line-height: 50px;
+   min-height: 50px;
+   height: 50px;
+}
+.p1 {
+	padding-top: 8px;
+}
+.p2 {
+	margin-top: 5px;
+}
+.tabela_content_wrapper [type="button"], [type="submit"], button{
+	color: #000!important;
+	border: 1px solid #f4e7e7!important;
+	background-color: #fff!important;
+	padding-top: 5px;
+	padding-bottom: 5px!important;
+	padding-left: 10px!important;
+	padding-right: 10px!important;
+	border-radius: 5px!important;
+	margin-bottom: 10px!important;
+}
+.tabela_content_wrapper [type="button"]:focus, [type="submit"]:focus, button:focus{
+	color: #fff!important;
+}
+.tabela_content_wrapper [type="button"]:hover, [type="submit"]:hover, button:hover{
+	color: #000!important;
+	background-color: #fff!important;
+	border: 1px solid #000!important;
+	border-radius: 5px!important;
+}
+.dt-button.xselected {
+    color:#000!important;
+    border: 1px #000 solid!important;
+    background-color: #fff!important;
+    border-radius: 10px!important;
+}
+.dt-buttons{
+	padding-bottom: 10px!important;
+}
+.dt-button.buttons-pdf.buttons-html5.al-right{
+	float: right!important;
+	background: #f9f7f7 !important;
+}
